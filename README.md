@@ -6,6 +6,9 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={qotjr0151})](https://solved.ac/{qotjr0151})
 
+
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qotjr0151)](https://solved.ac/qotjr0151)
+
 - 👋 Hi, I’m @BaeSeok
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
