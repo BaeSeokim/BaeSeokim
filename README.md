@@ -6,7 +6,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BaeSeok&show_icons=true&theme=radical)
 
 
-
+  🎓 고려대학교(세종) 빅데이터학과 졸업  
+  🔎 삼성 청년 SW 아카데미 (SSAFY) 11기 
 
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qotjr0151)](https://solved.ac/qotjr0151)
 
