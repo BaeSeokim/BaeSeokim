@@ -1,7 +1,7 @@
 
 <div style="display:flex;" align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FC7323&height=240&section=header&text=Seok%20Bae&fontAlign=75&fontAlignY=35&fontSize=40&fontColor=ffffff&desc=Na_Nuguge&descAlign=80&descAlignY=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FC7323&height=240&section=header&text=Seok%20Bae&fontAlign=75&fontAlignY=35&fontSize=40&fontColor=ffffff&desc=Software Developer&descAlign=80&descAlignY=50" />
 </div>
 <div align="center">
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qotjr0151"/>
