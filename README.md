@@ -2,7 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=BaeSeok&fontSize=90)
 
-### ℹ️ Cards ℹ️
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BaeSeok&show_icons=true&theme=radical)
 
