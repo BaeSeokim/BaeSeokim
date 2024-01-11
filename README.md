@@ -1,4 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=BAE%20SEOK)
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=BaeSeok&fontSize=90)
+
+<!--<table>
+<tr>
+<td align="center" colspan="2">
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BaeSeok&show_icons=true&theme=radical)
 
