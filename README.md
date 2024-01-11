@@ -1,5 +1,6 @@
 <div align="center">
-<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjddmadl97"/>
+  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qotjr0151"/>
+  
 ## 👋 SEOK BAE 👋 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BaeSeok&show_icons=true&theme=radical)
