@@ -3,7 +3,8 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BaeSeok&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaeSeok)]
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{qotjr0151})
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{qotjr0151})
 
 - 👋 Hi, I’m @BaeSeok
 - 👀 I’m interested in ...
