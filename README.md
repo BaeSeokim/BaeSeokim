@@ -16,7 +16,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongum&layout=compact&hide=javascript,css,scss&theme=dracula&langs_count=8"/>
   
 
-  ### 🛠 SKILL 🛠
+### 🛠 SKILL 🛠
 
 <div>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
