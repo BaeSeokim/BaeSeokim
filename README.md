@@ -19,10 +19,10 @@
 
 
   
-
+<div align="center">
 ### 🛠 SKILL 🛠
 
-<div>
+
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2b%2b&logoColor=white"/>
 <img src="https://img.shields.io/badge/SAS-489CFF?style=flat-square&logo=SAS&logoColor=white"/>
