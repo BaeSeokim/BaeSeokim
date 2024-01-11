@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=BAE%20SEOK)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?BaeSeok=anuraghazra&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?BaeSeok=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m @BaeSeok
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
