@@ -3,9 +3,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BaeSeok&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaeSeok)]
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={qotjr0151})](https://solved.ac/{qotjr0151})
-
 
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qotjr0151)](https://solved.ac/qotjr0151)
 
