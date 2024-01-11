@@ -4,7 +4,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?BaeSeok=anuraghazra)]
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{qotjr0151@naver.com})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{qotjr0151})
 
 - 👋 Hi, I’m @BaeSeok
 - 👀 I’m interested in ...
