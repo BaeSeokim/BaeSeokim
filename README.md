@@ -1,7 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=BAE%20SEOK)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?BaeSeok=anuraghazra&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?BaeSeok=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?BaeSeok=anuraghazra)]
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{qotjr0151@naver.com})
+
 - 👋 Hi, I’m @BaeSeok
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
