@@ -1,12 +1,12 @@
 
 <div style="display:flex;" align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FC7323&height=240&section=header&text=Hyobin%20Choe&fontAlign=75&fontAlignY=35&fontSize=40&fontColor=ffffff&desc=AtomicLiquors&descAlign=80&descAlignY=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FC7323&height=240&section=header&text=Seok%20Bae&fontAlign=75&fontAlignY=35&fontSize=40&fontColor=ffffff&desc=Na_Nuguge&descAlign=80&descAlignY=50" />
 </div>
 <div align="center">
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qotjr0151"/>
   
-## 👋 SEOK BAE 👋 
+## 👋 배 석 👋 
 
 <a href="https://github.com/BaeSeokkim"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBaeSeokkim&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=true"/></a>
 
