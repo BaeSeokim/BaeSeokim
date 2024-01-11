@@ -33,6 +33,6 @@
 </p>
 
 
-<h2> Contact </h2>
+<h2> ☎Contact </h2>
 <h4> <div align="center">📫 E-mail: qotjr0151@naver.com </div></h4>
 
