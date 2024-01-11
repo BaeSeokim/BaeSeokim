@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=BAE%20SEOK)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?BaeSeok=anuraghazra&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?BaeSeok=anuraghazra)]
+![GitHub stats](https://github-readme-stats.vercel.app/api?BaeSeokKim=anuraghazra&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?BaeSeokKim=anuraghazra)]
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{qotjr0151})
 
